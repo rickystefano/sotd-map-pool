@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rickystefano/sotd-map-pool#readme",
   "dependencies": {
     "amd-optimize": "^0.6.1",
-    "gulp": "^4.0.2",
+    "gulp": "^3.0.0",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-cached": "^1.1.1",
     "gulp-clean-css": "^4.2.0",
@@ -29,6 +29,7 @@
     "gulp-remember": "^1.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2"
   }
 }
