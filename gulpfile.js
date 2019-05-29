@@ -100,3 +100,5 @@ gulp.task("watch", function() {
 	gulp.watch(path.sass.src, ["sass"]);
 	gulp.watch(path.script.src, ["script"]);
 });
+
+gulp.task('default', ['sass', 'watch', 'script']);
