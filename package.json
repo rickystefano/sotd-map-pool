@@ -1,0 +1,34 @@
+{
+  "name": "sotd-map-pool",
+  "version": "1.0.0",
+  "description": "OIF - SOTD Map Pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickystefano/sotd-map-pool.git"
+  },
+  "author": "Dominikus Ricky Stefano Simadinata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickystefano/sotd-map-pool/issues"
+  },
+  "homepage": "https://github.com/rickystefano/sotd-map-pool#readme",
+  "dependencies": {
+    "amd-optimize": "^0.6.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-remember": "^1.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
