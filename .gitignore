@@ -6,5 +6,4 @@ dist
 .sass-cache
 *.swp
 
-package-lock.json
 /pub/functions/conn.php
