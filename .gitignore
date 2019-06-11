@@ -8,3 +8,4 @@ dist
 *.swp
 
 /pub/functions/conn.php
+/pub/assets/css/app.css
